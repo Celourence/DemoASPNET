@@ -54,7 +54,7 @@ Esses projetos demonstram na prática como configurar, estruturar e explorar os 
 
 Este curso foi concluído com sucesso, e o certificado está disponível neste repositório, comprovando a capacitação em ASP.NET Core e o domínio dos conceitos fundamentais abordados. 
 
-
+![Certificado do Curso](Assets/Iniciando%20com%20ASPNET%20Desenvolvedor.Io%20-%20Certificado%20de%20conclusão.png)
 
 ## Tecnologias Utilizadas
 
