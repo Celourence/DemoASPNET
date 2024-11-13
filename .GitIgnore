@@ -15,17 +15,84 @@ DocumentLayout.json
 *.exe
 *.dll
 *.pdb
+*.cache
+*.log
 
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
 
-# Logs and temporary files
-*.log
-*.tmp
+# User-specific files
+*.swp
+*.sln.docstates
+
+# ASP.NET Identity and authentication (Database)
+App_Data/ASPNETDB.MDF
+App_Data/ASPNETDB_log.LDF
+App_Data/*.mdf
+App_Data/*.ldf
+
+# Configuration and environment files
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Staging.json
 
 # Packages directory
 **/packages/
+**/node_modules/
 
 # Bin and Obj folders
 **/bin/
 **/obj/
+
+# Publish output
+**/publish/
+**/out/
+
+# Resharper and Rider
+*.ReSharper*
+_ReSharper*/
+.idea/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/modules.xml
+.idea/**/vcs.xml
+.idea/**/shelf/
+.idea/**/workspace/
+*.DotSettings.user
+
+# Database files
+*.mdf
+*.ldf
+*.sdf
+*.sqlite
+
+# NPM debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Other temporary and backup files
+*.tmp
+*.tmp.*
+*.bak
+*~$*
+*.diff
+*.patch
+*.orig
+*.rej
+*.sublime-project
+*.sublime-workspace
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux specific
+*~
