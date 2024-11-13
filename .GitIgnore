@@ -1,0 +1,31 @@
+# Visual Studio and Visual Studio Code settings and temporary files
+.vscode/
+.vs/
+*.suo
+*.user
+*.wsuo
+*.code-workspace
+*.json
+
+# Visual Studio workspace and layout files
+VSWorkspace.json
+DocumentLayout.json
+
+# Build results
+*.exe
+*.dll
+*.pdb
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Packages directory
+**/packages/
+
+# Bin and Obj folders
+**/bin/
+**/obj/
